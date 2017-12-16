@@ -10,4 +10,6 @@ The above collection includes a Matlab script (version 2016) to create an image 
 The details are commented in code.
 I hope this script will be useful.
 
+Sample images:
+![sampleimages](https://user-images.githubusercontent.com/34601110/34071332-3de48cc8-e28a-11e7-8bf2-8409eed2d986.png)
 
